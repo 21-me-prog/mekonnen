@@ -1,0 +1,52 @@
+<DOC TYPE  html>
+<html>
+<head>
+<style>
+body {background-color:lightgreen;}
+p{font-size:10px;}                                                           /* this background color forbody option in html file*/
+h1{background-color:red;}                                                   /* this background color for header 1 option in html file*/
+h2{background-color:blue;}                                                   /* this background color for header 2 option in html file*/
+form{background-color:white;}                                               /* this background color for form option in html file*/
+
+label{background-color:red;}                                               /* this background color for label(first&second name) option in html file*/
+input{background-color:yellow;}
+b{background-color:red;}                                                   /* this background color for bold text option in html file*/                        bdo{color:rgb(255,54,23);}                                                 /* this background color for bdo(yaleb nennokem) option in html file*/
+h1{text-align:center;} 
+p.doted {border-style: dotted:}
+div{width:30px; height:20px;
+background-color:blue;
+border: 20px solid yellow;
+padding:40px;
+outline:2px dotted red;                                                           /* it is to add a dotted outline line  of Div element in html file*/   
+margin:20px;}                                                                     /* it is to operate size and color of Div element in html file*/  
+ui{color:red;}                                                                      /* it is to give acolor for un listed and listed items in html file*/     h2{text-align:right;}                                                      
+h1 uppercase {text-transform:uppercase;}                                          /* it is to make upper case,lower or capitalize texts in html file*/   
+h2 capitalize {text-transform:capitalize;}                                          /* it is to make capitalize h2 texts in html file*/  
+      h4 {
+            width: 200px;
+            height: 200px;
+        }
+div class {
+    display: move;
+    justify-content: left;
+    align-items: right;
+    height: 100vh;
+    background-color: green;
+}
+
+.lamp-container {
+    text-align: center;
+}
+
+
+.lamp.on {
+    background-color: red;                                                    /* Color when lamp is on */
+}
+
+.lamp.off {
+    background-color: black;                                                    /* Color when lamp is off */
+}           
+
+</style>
+</head>
+</html>‎
